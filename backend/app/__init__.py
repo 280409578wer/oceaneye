@@ -1,0 +1,2 @@
+"""OceanEye FastAPI application."""
+

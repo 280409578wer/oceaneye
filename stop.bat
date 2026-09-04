@@ -1,0 +1,6 @@
+@echo off
+chcp 65001 >nul
+title OceanEye 停止器
+powershell -NoProfile -ExecutionPolicy Bypass -File "%~dp0scripts\stop.ps1"
+pause
+
